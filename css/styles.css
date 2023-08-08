@@ -8243,7 +8243,7 @@ textarea.form-control-lg {
 
 .text-muted {
   --bs-text-opacity: 1;
-  color: white!important;
+  color: black;
 }
 
 .text-black-50 {
